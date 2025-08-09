@@ -6,3 +6,9 @@ src/defines_private.h
 src/Faces/Private
 src/MenuOptions/Private
 src/Private
+
+
+# vscode stuff
+.vscode/*.json
+!.vscode/*.example
+!.vscode/extensions.json
